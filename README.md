@@ -1,4 +1,4 @@
-<img src="img/header.png">
+<img src="img/frontpage.png">
 
 This Notebook uses unsupervised machine learning methods to test two fairly widespread beliefs about the schools in, the capital of Norway, Oslo.
 
